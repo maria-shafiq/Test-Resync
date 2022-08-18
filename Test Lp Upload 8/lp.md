@@ -10,4 +10,4 @@ scenarioCount: 2
 scenarios:
   - Test Installation and First Steps 7a
   - Test Installation and First Steps 7b
-title: Test Lp Upload 7
+title: Test Lp Upload 8
